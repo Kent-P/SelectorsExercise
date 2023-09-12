@@ -34,7 +34,7 @@ div > p {
     font-size: 30px;
 }
 
-input[type="email"], input[type="text"] {
+input[type="email"] {
     background-color: #808080;
 }
 
